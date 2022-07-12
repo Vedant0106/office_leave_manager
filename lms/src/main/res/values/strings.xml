@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Office Manager</string>
+    <string name="country_prompt">Choose a Reason</string>
+    <string-array name="country_arrays">
+        <item>Family Function</item>
+        <item>Medical Leave</item>
+        <item>Casual leave</item>
+        <item>Earned Leave</item>
+        <item>half day</item>
+        <item>Other</item>
+    </string-array>
+</resources>
