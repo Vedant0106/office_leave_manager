@@ -3,11 +3,17 @@ ANDROID STUDIO: It is an official integrated development environment (IDE) for a
 It has many tools, a rich layout-editor, template-based wizards and an android virtual device to run and debug apps in the android studio.
 
 SOFTWARE AND HARDWARE REQUIREMENTS DEVELOPER REQUIREMENTS 
+
 Software Requirement: Android studio(SDK) , Java (JRE).
+
 Database Used: SQLite.
+
 Hardware Requirement: Intel i5/Ryzen 5 processor (for smooth development), 8GB RAM, Any operating system.
+
  USER REQUIREMENTS 
-Software Requirement: Android version — 5.0 and higher. 
+ 
+Software Requirement: Android version — 5.0 and higher.
+
 Hardware Requirement: RAM — Minimum RAM of 3 GB.
 
 VEDANT SRIVASTAVA AND UTSAV ANAND
